@@ -2,7 +2,7 @@
   "name": "reactdemoapp",
   "version": "1.0.0",
   "description": "React front end for demoing some of my fullstack skills",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +16,5 @@
     "url": "https://github.com/corey-short/ReactDemoApp/issues"
   },
   "homepage": "https://github.com/corey-short/ReactDemoApp#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "dependencies": {}
 }
