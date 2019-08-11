@@ -1,0 +1,19 @@
+{
+  "name": "reactdemoapp",
+  "version": "1.0.0",
+  "description": "React front end for demoing some of my fullstack skills",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corey-short/ReactDemoApp.git"
+  },
+  "author": "Corey Short",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corey-short/ReactDemoApp/issues"
+  },
+  "homepage": "https://github.com/corey-short/ReactDemoApp#readme"
+}
