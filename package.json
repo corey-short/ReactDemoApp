@@ -16,5 +16,8 @@
     "url": "https://github.com/corey-short/ReactDemoApp/issues"
   },
   "homepage": "https://github.com/corey-short/ReactDemoApp#readme",
-  "dependencies": {}
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
 }
