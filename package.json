@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/corey-short/ReactDemoApp/issues"
   },
-  "homepage": "https://github.com/corey-short/ReactDemoApp#readme"
+  "homepage": "https://github.com/corey-short/ReactDemoApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
