@@ -1,3 +1,6 @@
+docker-compose-dev.yml
+dev.Dockerfile
+
 # dependencies
 node_modules/
 
